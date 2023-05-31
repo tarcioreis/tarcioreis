@@ -2,7 +2,6 @@
 
 
 - 👨‍💻 Atualmente cursando 6º semestre em Análise e Desenvolvimento de Sistemas - IFBA
-- 📚 Estudando Java através de Bootcamp
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=tarcioreis&show_icons=true&theme=radical)
 
